@@ -1,0 +1,14 @@
+body{
+    /* bgと入力後Tobを押す */
+    /* background: red; */
+}
+/* classは.に変換される
+例　.a */
+.a{
+    /* cと入力後Tobを押す */
+    color: pink;
+}
+
+.b{color: blue;}
+
+.c{color: yellow;}
